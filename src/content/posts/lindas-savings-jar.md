@@ -2,7 +2,7 @@
 title: How Little Savings Saved Linda's Pet Dog
 description: A heartwarming story about how Linda's small savings helped her pet dog, Spot, when he needed it most. 
 date: 2024-09-14
-image: /images/linda-and-spot.jpg
+image: /images/posts/linda-and-spot.jpg
 categories: [Investing]
 authors: [Prasanniya, Thuwarakesh]
 tags: [saving, habits, pets, children's stories]
