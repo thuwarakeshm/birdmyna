@@ -1,12 +1,13 @@
 ---
 title: Leo’s Bedtime Routine
 description: Leo follows his bedtime routine every night and feels better in the morning.
-date: 2024-09-14
+date: 2024-09-10
 image: /images/posts/leo-bedtime-routine.jpg
 categories: [Good Habits]
 authors: [BirdMyna Editors]
 tags: [bedtime story, moral story, children’s story]
-draft: true
+youtube: "7GxhnVyxSww"
+draft: false
 ---
 
 **Leo’s Bedtime Routine**
