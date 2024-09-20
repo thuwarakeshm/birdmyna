@@ -13,8 +13,9 @@ const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await post.render();
-const { title, description, authors, categories, image, date, tags } =
+const { title, description, authors, categories, image, date, tags, youtube } =
   post.data;
+  import { YouTube } from 'astro-embed';
 ---
 
 <section class="section">
@@ -94,6 +95,13 @@ const { title, description, authors, categories, image, date, tags } =
       <div class="md:col-10">
         <div class="content mb-16 text-left">
           <Content />
+        </div>
+        <div class="content mb-16 text-left">
+          {
+            youtube && (
+              <YouTube id={youtube} />
+            )
+          }
         </div>
         <div class="flex flex-wrap items-center justify-between">
           <ul class="mr-4 mb-4 space-x-3">

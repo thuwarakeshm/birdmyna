@@ -1,11 +1,12 @@
 ---
-title: How Little Savings Saved Linda's Pet Dog
+title: Linda and the Little Savings Jar
 description: A heartwarming story about how Linda's small savings helped her pet dog, Spot, when he needed it most. 
-date: 2024-09-14
+date: 2024-09-06
 image: /images/posts/linda-and-spot.jpg
 categories: [Investing]
 authors: [BirdMyna Editors]
 tags: [saving, habits, pets, children's stories]
+youtube: "6sc6mE2LolE"
 draft: false
 ---
 

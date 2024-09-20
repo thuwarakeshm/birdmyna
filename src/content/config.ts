@@ -12,6 +12,7 @@ const postsCollection = defineCollection({
     authors: z.array(z.string()).default(["admin"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
+    youtube: z.string().optional(),
     draft: z.boolean().optional(),
   }),
 });
