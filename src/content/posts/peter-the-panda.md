@@ -3,7 +3,7 @@ title: Painting with Peter the Panda
 description: A colorful story about Peter the Panda and his friends expressing their feelings through art.
 date: 2024-09-13
 image: /images/posts/peter-the-panda.jpg
-categories: [Growth Mindset]
+categories: [Hobbies]
 authors: [BirdMyna Editors]
 tags: [art, feelings, friendship]
 youtube: "fnO7wBmmIzQ"

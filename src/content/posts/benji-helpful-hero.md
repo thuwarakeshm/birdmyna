@@ -3,7 +3,7 @@ title: The Helpful Hero
 description: A heartwarming tale about Benji, who learns the joy of helping others and being a hero in everyday life.
 date: 2024-09-13
 image: /images/posts/benji-helpful-hero.jpg
-categories: [Good Habits]
+categories: [Friendship]
 authors: [BirdMyna Editors]
 tags: [kindness, helping others, hero]
 youtube: "NXCvYD7Hxa8"

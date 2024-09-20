@@ -3,7 +3,7 @@ title: Milo’s Book Adventure
 description: Join Milo as he discovers the magic of reading and the adventures that await within the pages of a book.
 date: 2024-09-12
 image: /images/posts/milo-book-adventure.jpg
-categories: [Hobbies]
+categories: [Mindfulness]
 authors: [BirdMyna Editors]
 tags: [Adventure, Reading, Imagination]
 youtube: "SsusQ1OiTFs"

@@ -3,7 +3,7 @@ title: Mia’s Friendship Tree
 description: A heartwarming story about Mia and Emma as they plant a friendship tree, learning the importance of nurturing friendships.
 date: 2024-09-12
 image: /images/posts/mias-friendship-tree.jpg
-categories: [Friendship, Growth Mindset]
+categories: [Friendship]
 authors: [BirdMyna Editors]
 tags: [children's story, friendship, kindness]
 youtube: "_ZnSHtSpYiM"

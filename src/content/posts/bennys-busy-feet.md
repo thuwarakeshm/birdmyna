@@ -3,7 +3,7 @@ title: Benny’s Busy Feet
 description: A fun story about Benny discovering the joy of exercise through his busy feet.
 date: 2024-09-11
 image: /images/posts/bennys-busy-feet.jpg
-categories: [Health, Good Habits]
+categories: [Health]
 authors: [BirdMyna Editors]
 tags: [exercise, kids, fun]
 youtube: "AOjqYgdyIxw"
