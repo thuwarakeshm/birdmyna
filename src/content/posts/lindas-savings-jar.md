@@ -4,7 +4,7 @@ description: A heartwarming story about how Linda's small savings helped her pet
 date: 2024-09-14
 image: /images/posts/linda-and-spot.jpg
 categories: [Investing]
-authors: [Prasanniya, Thuwarakesh]
+authors: [BirdMyna Editors]
 tags: [saving, habits, pets, children's stories]
 draft: false
 ---
